@@ -51,7 +51,6 @@ body{
     margin-top: 25px;
     font-size: 1.5rem;
     font-weight: bold;
-    /* font-style: italic; */
 }
 
 .button-container{
@@ -108,7 +107,6 @@ button:active{
     100% { transform: rotate(360deg); }
   }
 
-  
 /* Media Query: Tablet or Smaller */
 @media screen and (max-width: 1000px){
     .quote-container{
